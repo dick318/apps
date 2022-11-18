@@ -1,0 +1,52 @@
+{
+    "urls": [
+           {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": " 🐞请点击选择下方线路"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "应用多多家庭版"
+         },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://raw.fastgit.org/dick318/duo/main/v.json",
+            "name": "待添加"
+        }
+      ]  
+}
