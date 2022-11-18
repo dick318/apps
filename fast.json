@@ -1,14 +1,16 @@
 {
 "storeHouse": [
-{"sourceName":"💚混合极速仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/520.txt"},
-{"sourceName":"💚自用极速仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/1.txt"},
-{"sourceName":"💚多多极速仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/1.txt"},
-{"sourceName":"💛多多缓冲仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/2.txt"},
-{"sourceName":"❤多多大佬仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/3.txt"},
-{"sourceName":"🥕多多预备仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/4.txt"},
+{"sourceName":"💚混合极速仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/520.txt"},
+{"sourceName":"💚自用极速仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/1.txt"},
+{"sourceName":"💚多多极速仓codeberg","sourceUrl":"https://codeberg.org/leevi/apps/raw/branch/main/1.txt"},
+{"sourceName":"💚多多极速仓agit","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/1.txt"},
+{"sourceName":"💚多多极速仓gitlab","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
 {"sourceName":"☁云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁可视本地仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"☁云星②号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/极速仓库.json"},
 {"sourceName":"☁云星③号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/缓冲仓库.json"},
-{"sourceName":"☁云星④号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/大佬仓库.json"}
+{"sourceName":"☁云星④号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/大佬仓库.json"},
+{"sourceName":"💛多多缓冲仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/2.txt"},
+{"sourceName":"❤多多大佬仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/3.txt"},
+{"sourceName":"🥕多多预备仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/4.txt"}
 ]}
