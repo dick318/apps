@@ -1,7 +1,8 @@
 {
 "storeHouse": [
-{"sourceName":"💚多多极速仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/1.txt"},
-{"sourceName":"💛多多缓冲仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/2.txt"},
-{"sourceName":"❤多多大佬仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/3.txt"},
-{"sourceName":"🥕多多预备仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/4.txt"}
+{"sourceName":"💚自用极速仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/1.txt"},
+{"sourceName":"💚多多极速仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/1.txt"},
+{"sourceName":"💛多多缓冲仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/2.txt"},
+{"sourceName":"❤多多大佬仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/3.txt"},
+{"sourceName":"🥕多多预备仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/4.txt"}
 ]}
