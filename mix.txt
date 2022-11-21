@@ -88,7 +88,7 @@
         {
             "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
             "name": "✍ Github/PinkBird"
-        }
+        },
 		{
 			"url": "http://pandown.pro/tvbox/tvbox.json",
 			"name": "🚀巧记线路"
