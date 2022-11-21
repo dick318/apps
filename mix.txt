@@ -47,7 +47,7 @@
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             //"url": "https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt",
-            "name": "🤖agit.ai/Yoursmile7"
+            "name": "🤖南风线路"
         },
         {
             "url": "http://刚刚.live/猫",
@@ -118,20 +118,12 @@
 			"name": "🚀小苹果线路"
 		},
 		{
-			"url": "https://raw.liucn.cc/box/m.json",
-			"name": "🚀老刘备线路"
-		},
-		{
 			"url": "http://52bsj.vip:98/wuai",
 			"name": "🚀吾爱线路"
 		},
 		{
 			"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
 			"name": "🚀潇洒线路"
-		},
-		{
-			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-			"name": "🚀南风线路"
 		},
 		{
 			"url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
@@ -176,10 +168,6 @@
 		{
 			"url": "https://dxawi.github.io/0/0.json",
 			"name": "📱网络搜集①〔多条线路〕"
-		},
-		{
-			"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-			"name": "📱网络搜集②〔多条线路〕"
 		},
 		{
 			"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
