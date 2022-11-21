@@ -6,7 +6,19 @@
         },
         {
             "url": "https://raw.iqiq.io/dick318/duo/main/qiu.json",
-            "name": "🏡刘小秋专用线路"
+            "name": "🏡刘小秋专用1"
+        },
+        {
+            "url": "https://raw.iqiq.io/menglong1032/video/master/222.txt",
+            "name": "🏡刘小秋专用2"
+        },
+        {
+            "url": "https://raw.iqiq.io/dick318/duo/main/yschaizhen/xxx1",
+            "name": "🏡刘小秋专用3"
+        },
+        {
+            "url": "https://raw.iqiq.io/dick318/duo/main/yschaizhen/xxx2",
+            "name": "🏡刘小秋专用4"
         },
         {
             "url": "https://raw.iqiq.io/dick318/duo/main/v.json",
