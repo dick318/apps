@@ -9,7 +9,7 @@
             "name": "🏡刘小秋专用1"
         },
         {
-            "url": "https://raw.iqiq.io/dick318/gao/master/9918.json",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
             "name": "🏡刘小秋专用2"
         },
         {
