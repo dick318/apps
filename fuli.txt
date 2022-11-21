@@ -5,7 +5,8 @@
 			"name": "🏡应用多多家庭版"
 		},
 		{
-			"url": "http://s.nxw.so/vip",
+		    //"url": "http://s.nxw.so/vip",
+			"url": "https://cnvip.x10.mx/tv/01.txt",
 			"name": "🏡潇洒空间"
 		},
 		{
