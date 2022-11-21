@@ -2,6 +2,7 @@
 "storeHouse": [
 {"sourceName":"💚混合极速仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/mix.txt"},
 {"sourceName":"💚自用极速仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/1.txt"},
+{"sourceName":"💚小秋专用仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/fuli.txt"},
 
 //https://maoyingshi.cc/可视TV/云星日记/仓库.json
 {"sourceName":"☁云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
@@ -19,6 +20,22 @@
 {"sourceName":"💛多多缓冲仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/2.txt"},
 {"sourceName":"❤多多大佬仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/3.txt"},
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://agit.ai/leevi/apps/raw/branch/main/4.txt"},
+
+//https://www.xueximeng.com/tvbox/tvbox.json
+{"sourceName":"🌸超级仓库","sourceUrl":"https://www.xueximeng.com/tvbox/🌸超级仓库.json"},
+{"sourceName":"🦆精品仓库","sourceUrl":"https://www.xueximeng.com/tvbox/🦆精品仓库.json"},
+
+
+//https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+{"sourceName":"网收精选","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_1_0.json"},
+{"sourceName":"网选Py源","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_1_1.json"},
+{"sourceName":"网络收集","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_2_0.json"},
+{"sourceName":"公众号源","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_3_0.json"},
+{"sourceName":"网收y","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_4_0.json"},
+{"sourceName":"自建资源","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0.json"},
+{"sourceName":"自建DRPY","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_1.json"},
+{"sourceName":"自建y","sourceUrl":"http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0.json"},
+
 
 //https://github.com/yutian88881/tvbox/blob/main/duocangpro.txt
 { "sourceName": "自用①号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/1" },
@@ -118,4 +135,6 @@
 {"sourceName":"⑥⑥号库","sourceUrl":"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/de5cb406-a6c0-471f-9921-66ec910e5ba6.jpg"},
 {"sourceName":"⑥⑦号库","sourceUrl":"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/94442143-d489-42ae-a79d-f2c00db61903.jpg"},
 {"sourceName":"⑥⑧号库","sourceUrl":"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/f5d5dbc6-d403-4cc4-92d5-f213319713bf.jpg"}
+
+
 ]}
