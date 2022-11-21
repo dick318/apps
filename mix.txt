@@ -60,6 +60,10 @@
             "name": "🧑‍🔧刚刚4K"
         },
         {
+            "url": "http://xn--sss604efuw.ga/x/o.json",
+            "name": "🤖‍饭太硬"
+        },
+        {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "🤖agit.ai/branch"
         },
