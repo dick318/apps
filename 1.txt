@@ -5,10 +5,6 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://raw.iqiq.io/dick318/duo/main/qiu.json",
-            "name": "🏡刘小秋专用线路"
-        },
-        {
             "url": "https://raw.iqiq.io/dick318/duo/main/m.json",
             "name": "🏡应用多多"
         },
