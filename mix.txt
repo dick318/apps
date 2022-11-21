@@ -8,6 +8,8 @@
 			"url": "http://s.nxw.so/vip",
 			"name": "🏡潇洒空间"
 		},
+
+
 		{
 			"url": "https://raw.iqiq.io/dick318/duo/main/qiu.json",
 			"name": "🔞刘小秋专用1"
@@ -93,7 +95,7 @@
 		{
 			"url": "http://zb-iptv.tk/18.json",
 			"name": "🔞zb-iptv"
-		}
+		},
 
 
 
