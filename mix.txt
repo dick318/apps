@@ -1,15 +1,15 @@
 {
 	"urls": [
-	    {
+		{
 			"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
 			"name": "🏡应用多多家庭版"
 		},
-        {
-            "url": "https://raw.iqiq.io/dick318/duo/main/v.json",
-            "name": "🏡应用多多(自用)"
-        },
 		{
-		    //"url": "http://s.nxw.so/vip",
+			"url": "https://raw.iqiq.io/dick318/duo/main/v.json",
+			"name": "🏡应用多多(自用)"
+		},
+		{
+			//"url": "http://s.nxw.so/vip",
 			//"url": "https://cnvip.x10.mx/tv/01.txt",
 			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
 			"url": "https://raw.iqiq.io/dick318/duo/main/xiaosa/1121.txt",
@@ -19,75 +19,75 @@
 			"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
 			"name": "🏡二哈社区"
 		},
-        {
-            "url": "http://101.34.67.237/config/2",
-            "name": "🏡道长大人"
-        },
-        {
-            //"url": "https://pandora2277.github.io/tang.bmp",
-            "url": "https://HUTOOL.ML/tang",
-            "name": "💎唐三线路"
-        },
-        {
-            "url": "http://miaotvs.cn/osc",
-            //"url": "http://111.67.196.181/mtv/270.txt",
-            "name": "🧑‍🔧太阳仓库"
-        },
-        {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🧑‍🔧猫友️"
-        },
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            //"url": "https://liu673cn.github.io/box/m.json",
-            //"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "✍️老刘呗"
-        },
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
-            "name": "🤖agit.ai/MHQTV"
-        },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            //"url": "https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt",
-            "name": "🤖南风线路"
-        },
-        {
-            "url": "http://刚刚.live/猫",
-            //"url": "我不是.肥猫.love:63",
-            "name": "🧑‍🔧刚刚"
-        },
-        {
-            "url": "http://xn--4bra.live/%E7%8C%AB",
-            //"url": "http://刚刚.live/gg.json",
-            "name": "🧑‍🔧刚刚4K"
-        },
-        {
-            "url": "http://xn--sss604efuw.ga/x/o.json",
-            "name": "🤖‍饭太硬"
-        },
-        {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "🤖agit.ai/branch"
-        },
-        {
-            //"url": "https://dxawi.github.io/0/0.json",
-            "url": "https://raw.iqiq.io/dxawi/0/main/0.json",
-            "name": "✍github_dxawi0"
-        },
-        {
-            //"url": "https://dxawi.github.io/0/1.json",
-            "url": "https://raw.iqiq.io/dxawi/0/main/1.json",
-            "name": "✍github_dxawi1"
-        },
-        {
-            "url": "https://agit.ai/1452635819/h/raw/branch/master/mao3",
-            "name": "🤖agit.ai/1452635819"
-        },
-        {
-            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
-            "name": "✍github/PinkBird"
-        },
+		{
+			"url": "http://101.34.67.237/config/2",
+			"name": "🏡道长大人"
+		},
+		{
+			//"url": "https://pandora2277.github.io/tang.bmp",
+			"url": "https://HUTOOL.ML/tang",
+			"name": "💎唐三线路"
+		},
+		{
+			"url": "http://miaotvs.cn/osc",
+			//"url": "http://111.67.196.181/mtv/270.txt",
+			"name": "🧑‍🔧太阳仓库"
+		},
+		{
+			"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+			"name": "🧑‍🔧猫友️"
+		},
+		{
+			"url": "https://raw.liucn.cc/box/m.json",
+			//"url": "https://liu673cn.github.io/box/m.json",
+			//"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+			"name": "✍️老刘呗"
+		},
+		{
+			"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
+			"name": "🤖agit.ai/MHQTV"
+		},
+		{
+			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+			//"url": "https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt",
+			"name": "🤖南风线路"
+		},
+		{
+			"url": "http://刚刚.live/猫",
+			//"url": "我不是.肥猫.love:63",
+			"name": "🧑‍🔧刚刚"
+		},
+		{
+			"url": "http://xn--4bra.live/%E7%8C%AB",
+			//"url": "http://刚刚.live/gg.json",
+			"name": "🧑‍🔧刚刚4K"
+		},
+		{
+			"url": "http://xn--sss604efuw.ga/x/o.json",
+			"name": "🤖‍饭太硬"
+		},
+		{
+			"url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+			"name": "🤖agit.ai/branch"
+		},
+		{
+			//"url": "https://dxawi.github.io/0/0.json",
+			"url": "https://raw.iqiq.io/dxawi/0/main/0.json",
+			"name": "✍github_dxawi0"
+		},
+		{
+			//"url": "https://dxawi.github.io/0/1.json",
+			"url": "https://raw.iqiq.io/dxawi/0/main/1.json",
+			"name": "✍github_dxawi1"
+		},
+		{
+			"url": "https://agit.ai/1452635819/h/raw/branch/master/mao3",
+			"name": "🤖agit.ai/1452635819"
+		},
+		{
+			"url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+			"name": "✍github/PinkBird"
+		},
 		{
 			"url": "http://pandown.pro/tvbox/tvbox.json",
 			"name": "🚀巧记线路"
@@ -120,10 +120,10 @@
 			"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
 			"name": "🚀小苹果线路"
 		},
-        {
-            "url": "http://52bsj.vip:98/9c",
-            "name": "🚀吾爱线路1"
-        },
+		{
+			"url": "http://52bsj.vip:98/9c",
+			"name": "🚀吾爱线路1"
+		},
 		{
 			"url": "http://52bsj.vip:98/wuai",
 			"name": "🚀吾爱线路2"
