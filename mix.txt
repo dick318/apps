@@ -64,6 +64,10 @@
             "name": "🤖‍饭太硬"
         },
         {
+            "url": "http://52bsj.vip:98/9c",
+            "name": "🤖吾爱"
+        },
+        {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "🤖agit.ai/branch"
         },
