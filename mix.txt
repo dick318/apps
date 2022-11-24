@@ -4,10 +4,11 @@
 			"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
 			"name": "🏡应用多多家庭版"
 		},
-		{
-			"url": "https://raw.iqiq.io/dick318/duo/main/v.json",
-			"name": "🏡应用多多(自用)"
-		},
+        {
+            //"url": "https://pandora2277.github.io/tang.bmp",
+            "url": "https://HUTOOL.ML/tang",
+            "name": "💎唐三线路"
+        },
 		{
 			//"url": "http://s.nxw.so/vip",
 			//"url": "https://cnvip.x10.mx/tv/01.txt",
@@ -24,11 +25,6 @@
 			"name": "🏡道长大人"
 		},
 		{
-			//"url": "https://pandora2277.github.io/tang.bmp",
-			"url": "https://HUTOOL.ML/tang",
-			"name": "💎唐三线路"
-		},
-		{
 			"url": "http://miaotvs.cn/osc",
 			//"url": "http://111.67.196.181/mtv/270.txt",
 			"name": "🧑‍🔧太阳仓库"
@@ -43,6 +39,10 @@
 			//"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
 			"name": "✍️老刘呗"
 		},
+        {
+            "url": "https://raw.iqiq.io/dick318/duo/main/yueguang/1.json",
+            "name": "🚀月光宝盒pro"
+        },
 		{
 			"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
 			"name": "🤖agit.ai/MHQTV"
@@ -187,6 +187,10 @@
 		{
 			"url": "http://www.dmtv.ml/mao/mao.php?type=single",
 			"name": "📱网络搜集⑦〔多条线路〕"
-		}
+		},
+        {
+            "url": "https://raw.iqiq.io/dick318/duo/main/v.json",
+            "name": "🏡应用多多(自用)"
+        }
 	]
 }
