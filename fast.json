@@ -43,9 +43,9 @@
 { "sourceName": "安卓哥JSPY", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/JSPY" },
 
 //http://tv.nxog.top/
-{"sourceName":"欧歌①号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=1"},
-{"sourceName":"欧歌②号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=2"},
-{"sourceName":"欧歌③号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=3"},
+{"sourceName":"欧歌①号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"},
+{"sourceName":"欧歌②号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星"},
+{"sourceName":"欧歌③号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=3&b=欧歌"},
 {"sourceName":"欧歌④号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=4"},
 {"sourceName":"欧歌⑤号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=5"},
 {"sourceName":"欧歌⑥号库","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=6"},
