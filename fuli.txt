@@ -10,7 +10,7 @@
 			"name": "🏡潇洒空间"
 		},
 		{
-			"url": "https://raw.iqiq.io/dick318/duo/main/qiu.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/duoduo/qiu.json",
 			"name": "🔞刘小秋专用1"
 		},
 		{
@@ -22,11 +22,11 @@
 			"name": "🔞刘小秋专用3"
 		},
 		{
-			"url": "https://raw.iqiq.io/dick318/duo/main/yschaizhen/xxx1",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/yschaizhen/xxx1",
 			"name": "🔞刘小秋专用4"
 		},
 		{
-			"url": "https://raw.iqiq.io/dick318/duo/main/yschaizhen/xxx2",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/yschaizhen/xxx2",
 			"name": "🔞刘小秋专用5"
 		},
 		{
