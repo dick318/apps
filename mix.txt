@@ -9,22 +9,7 @@
 			"url": "https://HUTOOL.ML/tang",
 			"name": "💎唐三线路"
 		},
-        {
-            //"url": "https://HUTOOL.ML/tang",
-            "url": "https://raw.iqiq.io/dick318/xianlu/main/tangsan/1.json",
-            "name": "💎唐三线路(自己)"
-        },
 		{
-			//"url": "http://s.nxw.so/vip",
-			"url": "https://cnvip.x10.mx/tv/01.txt",
-			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
-			//"url": "https://raw.iqiq.io/dick318/xianlu/main/xiaosa/1121.txt",
-			"name": "🏡潇洒空间"
-		},
-		{
-			//"url": "http://s.nxw.so/vip",
-			//"url": "https://cnvip.x10.mx/tv/01.txt",
-			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
 			"url": "https://raw.iqiq.io/dick318/xianlu/main/xiaosa/1121.txt",
 			"name": "🏡潇洒空间(自己)"
 		},
@@ -36,14 +21,14 @@
 			"url": "http://101.34.67.237/config/2",
 			"name": "🏡道长大人"
 		},
-        {
-            "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
-            "name": "💎[唐三+俊于+神器]"
-        },
-        {
-            "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
-            "name": "❤欧歌集合线路"
-        },
+		{
+			"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
+			"name": "💎[唐三+俊于+神器]"
+		},
+		{
+			"url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
+			"name": "❤欧歌集合线路"
+		},
 		{
 			"url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
 			"name": "🏡电视合集"
@@ -214,7 +199,35 @@
 		},
 		{
 			"url": "https://raw.iqiq.io/dick318/xianlu/main/duoduo/v.json",
-			"name": "🏡应用多多(自用)"
+			"name": "🏡应用多多(自己)"
+		},
+		{
+			//"url": "https://HUTOOL.ML/tang",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/tangsan/1.json",
+			"name": "💎唐三线路(自己)"
+		},
+		{
+			//"url": "http://s.nxw.so/vip",
+			"url": "https://cnvip.x10.mx/tv/01.txt",
+			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+			//"url": "https://raw.iqiq.io/dick318/xianlu/main/xiaosa/1121.txt",
+			"name": "🏡潇洒空间"
+		},
+		{
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/2ha/1.json",
+			"name": "🏡二哈社区(自己)"
+		},
+		{
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/daozhang/1.json",
+			"name": "🏡道长大人(自己)"
+		},
+		{
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/gaotianliuyun/1.json",
+			"name": "💎[唐三+俊于+神器](自己)"
+		},
+		{
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/ouge/1.json",
+			"name": "❤欧歌集合线路(自己)"
 		}
 	]
 }
