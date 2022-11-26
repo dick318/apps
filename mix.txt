@@ -1,5 +1,6 @@
 {
-	"urls": [{
+	"urls": [
+		{
 			"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
 			"name": "🏡应用多多家庭版"
 		},
