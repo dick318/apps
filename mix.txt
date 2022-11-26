@@ -23,7 +23,7 @@
         {
             "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
             "name": "❤欧歌集合线路",
-		}
+		},
 		{
 			"url": "http://101.34.67.237/config/2",
 			"name": "🏡道长大人"
