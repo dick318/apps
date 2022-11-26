@@ -10,6 +10,14 @@
 			"name": "💎唐三线路"
 		},
 		{
+			"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
+			"name": "💎[唐三+俊于+神器]"
+		},
+		{
+			"url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
+			"name": "❤欧歌集合线路"
+		},
+		{
 			//"url": "http://s.nxw.so/vip",
 			//"url": "https://cnvip.x10.mx/tv/01.txt",
 			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
@@ -19,10 +27,6 @@
 		{
 			"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
 			"name": "🏡二哈社区"
-		},
-		{
-			"url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
-			"name": "❤欧歌集合线路"
 		},
 		{
 			"url": "http://101.34.67.237/config/2",
@@ -40,10 +44,6 @@
 		{
 			"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
 			"name": "🧑‍🔧猫友️"
-		},
-		{
-			"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
-			"name": "🆗820 [jar=神器+俊于+唐三]"
 		},
 		{
 			"url": "https://raw.liucn.cc/box/m.json",
