@@ -25,6 +25,10 @@
 			"name": "🏡道长大人"
 		},
 		{
+            "url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
+            "name": "🏡电视合集"
+		},
+		{
 			"url": "http://miaotvs.cn/osc",
 			//"url": "http://111.67.196.181/mtv/270.txt",
 			"name": "🧑‍🔧太阳仓库"
