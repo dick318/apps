@@ -1,14 +1,13 @@
 {
-	"urls": [
-		{
+	"urls": [{
 			"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
 			"name": "🏡应用多多家庭版"
 		},
-        {
-            //"url": "https://pandora2277.github.io/tang.bmp",
-            "url": "https://HUTOOL.ML/tang",
-            "name": "💎唐三线路"
-        },
+		{
+			//"url": "https://pandora2277.github.io/tang.bmp",
+			"url": "https://HUTOOL.ML/tang",
+			"name": "💎唐三线路"
+		},
 		{
 			//"url": "http://s.nxw.so/vip",
 			//"url": "https://cnvip.x10.mx/tv/01.txt",
@@ -20,17 +19,17 @@
 			"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
 			"name": "🏡二哈社区"
 		},
-        {
-            "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
-            "name": "❤欧歌集合线路",
+		{
+			"url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
+			"name": "❤欧歌集合线路",
 		},
 		{
 			"url": "http://101.34.67.237/config/2",
 			"name": "🏡道长大人"
 		},
 		{
-            "url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
-            "name": "🏡电视合集"
+			"url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
+			"name": "🏡电视合集"
 		},
 		{
 			"url": "http://miaotvs.cn/osc",
@@ -41,20 +40,20 @@
 			"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
 			"name": "🧑‍🔧猫友️"
 		},
-        {
-          "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
-          "name": "🆗820 [jar=神器+俊于+唐三]"
-        },
+		{
+			"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
+			"name": "🆗820 [jar=神器+俊于+唐三]"
+		},
 		{
 			"url": "https://raw.liucn.cc/box/m.json",
 			//"url": "https://liu673cn.github.io/box/m.json",
 			//"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
 			"name": "✍️老刘呗"
 		},
-        {
-            "url": "https://raw.iqiq.io/dick318/duo/main/yueguang/1.json",
-            "name": "🚀月光宝盒pro"
-        },
+		{
+			"url": "https://raw.iqiq.io/dick318/duo/main/yueguang/1.json",
+			"name": "🚀月光宝盒pro"
+		},
 		{
 			"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
 			"name": "🤖agit.ai/MHQTV"
@@ -200,9 +199,9 @@
 			"url": "http://www.dmtv.ml/mao/mao.php?type=single",
 			"name": "📱网络搜集⑦〔多条线路〕"
 		},
-        {
-            "url": "https://raw.iqiq.io/dick318/duo/main/v.json",
-            "name": "🏡应用多多(自用)"
-        }
+		{
+			"url": "https://raw.iqiq.io/dick318/duo/main/v.json",
+			"name": "🏡应用多多(自用)"
+		}
 	]
 }
