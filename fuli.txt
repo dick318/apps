@@ -1,11 +1,11 @@
 {
 	"urls": [
-	    {
+		{
 			"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
 			"name": "🏡应用多多家庭版"
 		},
 		{
-		    //"url": "http://s.nxw.so/vip",
+			//"url": "http://s.nxw.so/vip",
 			"url": "https://cnvip.x10.mx/tv/01.txt",
 			"name": "🏡潇洒空间"
 		},
@@ -41,15 +41,15 @@
 			"url": "https://raw.iqiq.io/paopaoqing/dgzj/main/0723.json",
 			"name": "🔞刘小秋专用8"
 		},
-        {
-            "url": "http://jm.pooo.eu.org/jm?url=http://shuyuan.miaogongzi.net/shuyuan/1665613472.json",
-            "name": "🔞刘小秋专用9"
-        },
+		{
+			"url": "http://jm.pooo.eu.org/jm?url=http://shuyuan.miaogongzi.net/shuyuan/1665613472.json",
+			"name": "🔞刘小秋专用9"
+		},
 
-        {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-            "name": "🏡月光宝盒pro"
-        },
+		{
+			"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+			"name": "🏡月光宝盒pro"
+		},
 
 		{
 			"url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
@@ -102,6 +102,35 @@
 		{
 			"url": "http://zb-iptv.tk/18.json",
 			"name": "🔞zb-iptv"
+		},
+		{
+			"url": "http://152.136.125.181:81/MM/dianbos/yeshijieD.json",
+			"name": "🐝yeshijieD.json[多条线路]"
+		},
+		{
+			"url": "http://152.136.125.181:81/MM/dianbos/yeshijieE.json",
+			"name": "🐝yeshijieE.json[多条线路]"
+		},
+		{
+			"url": "http://152.136.125.181:81/MM/dianbos/yeshijieF.json",
+			"name": "🐝yeshijieF.json[多条线路]"
+		},
+		{
+			"url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
+			"name": "🐝wlyz88FL",
+			"time": "2022-08-26 02:00:00[多条线路]"
+		},
+		{
+			"url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+			"name": "🐝8f1c5[多条线路]"
+		},
+		{
+			"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
+			"name": "🐝chengxue[多条线路]"
+		},
+		{
+			"url": "https://raw.iqiq.io/dick318/apptest/main/avnetwork18x.txt",
+			"name": "線路2-AV"
 		}
 	]
 }
