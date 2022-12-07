@@ -10,11 +10,11 @@
 			"name": "💎唐三线路"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaosa/1121.txt",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/xiaosa/1121.txt",
 			"name": "🏡潇洒空间(自己)"
 		},
 		{
-			"url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
+			"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
 			"name": "🏡二哈社区"
 		},
 		{
@@ -22,7 +22,7 @@
 			"name": "🏡道长大人2"
 		},
 		{
-			"url": "https://raw.fastgit.org/gaotianliuyun/gao/master/0820.json",
+			"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
 			"name": "💎[唐三+俊于+神器]"
 		},
 		{
@@ -49,11 +49,11 @@
 		{
 			"url": "https://raw.liucn.cc/box/m.json",
 			//"url": "https://liu673cn.github.io/box/m.json",
-			//"url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
+			//"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
 			"name": "✍️老刘呗"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/yueguang/1.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/yueguang/1.json",
 			"name": "🚀月光宝盒pro(自己)"
 		},
 		{
@@ -80,15 +80,15 @@
 			"name": "🤖‍饭太硬"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/apptest/main/TVbox2.txt",
+			"url": "https://raw.iqiq.io/dick318/apptest/main/TVbox2.txt",
 			"name": "自用線路1-TV"
 		},
 		//{
-		//	"url": "https://raw.fastgit.org/dick318/apptest/main/line1-tvbox.json",
+		//	"url": "https://raw.iqiq.io/dick318/apptest/main/line1-tvbox.json",
 		//	"name": "資源線路1"
 		//},
 		{
-			"url": "https://raw.fastgit.org/tv-player/tvbox-line/main/tv/ptest.json",
+			"url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/ptest.json",
 			"name": "資源線路2"
 		},
 
@@ -103,12 +103,12 @@
 		},
 		{
 			//"url": "https://dxawi.github.io/0/0.json",
-			"url": "https://raw.fastgit.org/dxawi/0/main/0.json",
+			"url": "https://raw.iqiq.io/dxawi/0/main/0.json",
 			"name": "✍github_dxawi0"
 		},
 		{
 			//"url": "https://dxawi.github.io/0/1.json",
-			"url": "https://raw.fastgit.org/dxawi/0/main/1.json",
+			"url": "https://raw.iqiq.io/dxawi/0/main/1.json",
 			"name": "✍github_dxawi1"
 		},
 		{
@@ -172,7 +172,7 @@
 			"name": "☁️云星哔哩〔大套餐/学堂等〕"
 		},
 		{
-			"url": "https://raw.fastgit.org/Pandora2277/Pandora2277.github.io/main/tang.bmp",
+			"url": "https://raw.iqiq.io/Pandora2277/Pandora2277.github.io/main/tang.bmp",
 			"name": "💖唐三线路〔多条线路〕"
 		},
 		{
@@ -200,7 +200,7 @@
 			"name": "🐾兽爪线路〔多条线路〕"
 		},
 		{
-			"url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
+			"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
 			"name": "📱网络搜集⑥〔多条线路〕"
 		},
 		{
@@ -215,7 +215,7 @@
 		},
 
 		{
-			"url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/甜蜜.json",
+			"url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
 			"name": "🚧甜蜜[甜蜜线路]"
 		},
 
@@ -232,7 +232,7 @@
 			"name": "🍭BYYDS线路[多条线路]"
 		},
 		{
-			"url": "https://raw.fastgit.org/once678/looktv/main/tvbox8.json",
+			"url": "https://raw.iqiq.io/once678/looktv/main/tvbox8.json",
 			"name": "🍭once678线路"
 		},
 		{
@@ -289,11 +289,11 @@
 			"name": "🐱道长在线3[DRPY接口]"
 		},
 		{
-			"url": "https://raw.fastgit.org/lm317379829/PyramidStore/pyramid/py.json",
+			"url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
 			"name": "🐱星河软件园[DRPY接口]"
 		},
 		{
-			"url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
+			"url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
 			"name": "🐱甜蜜[DRPY接口]"
 		},
 		{
@@ -333,11 +333,11 @@
 			"name": "🐎VIP影视[多条线路]"
 		},
 		{
-			"url": "https://raw.fastgit.org/jie20091116/cat/f92c37b78340a1379739f7c1165d3d853563087a/TVBOX/box0916.txt",
+			"url": "https://raw.iqiq.io/jie20091116/cat/f92c37b78340a1379739f7c1165d3d853563087a/TVBOX/box0916.txt",
 			"name": "🚙杰哥接口"
 		},
 		{
-			"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/44.txt",
+			"url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt",
 			"name": "🎁伍佰园接口"
 		},
 		{
@@ -367,35 +367,35 @@
 
 
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/duoduo/v.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/duoduo/v.json",
 			"name": "🏡应用多多(自己)"
 		},
 		{
 			//"url": "https://HUTOOL.ML/tang",
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/tangsan/1.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/tangsan/1.json",
 			"name": "💎唐三线路(自己)"
 		},
 		{
 			//"url": "http://s.nxw.so/vip",
 			"url": "https://cnvip.x10.mx/tv/01.txt",
 			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
-			//"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaosa/1121.txt",
+			//"url": "https://raw.iqiq.io/dick318/xianlu/main/xiaosa/1121.txt",
 			"name": "🏡潇洒空间"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/2ha/1.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/2ha/1.json",
 			"name": "🏡二哈社区(自己)"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/daozhang/1.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/daozhang/1.json",
 			"name": "🏡道长大人(自己)"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/gaotianliuyun/1.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/gaotianliuyun/1.json",
 			"name": "💎[唐三+俊于+神器](自己)"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/ouge/1.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/ouge/1.json",
 			"name": "❤欧歌集合线路(自己)"
 		}
 	]

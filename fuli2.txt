@@ -10,35 +10,35 @@
 			"name": "🏡潇洒空间"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/duoduo/qiu.json",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/duoduo/qiu.json",
 			"name": "🔞刘小秋专用1"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/gao/master/9918.json",
+			"url": "https://raw.iqiq.io/dick318/gao/master/9918.json",
 			"name": "🔞刘小秋专用2"
 		},
 		{
-			"url": "https://raw.fastgit.org/menglong1032/video/master/222.txt",
+			"url": "https://raw.iqiq.io/menglong1032/video/master/222.txt",
 			"name": "🔞刘小秋专用3"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/yschaizhen/xxx1",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/yschaizhen/xxx1",
 			"name": "🔞刘小秋专用4"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/yschaizhen/xxx2",
+			"url": "https://raw.iqiq.io/dick318/xianlu/main/yschaizhen/xxx2",
 			"name": "🔞刘小秋专用5"
 		},
 		{
-			"url": "https://raw.fastgit.org/swbqm/dyvipyyds/main/dyvip1.json",
+			"url": "https://raw.iqiq.io/swbqm/dyvipyyds/main/dyvip1.json",
 			"name": "🔞刘小秋专用6"
 		},
 		{
-			"url": "https://raw.fastgit.org/swbqm/dyvipyyds/main/dyvip2.json",
+			"url": "https://raw.iqiq.io/swbqm/dyvipyyds/main/dyvip2.json",
 			"name": "🔞刘小秋专用7"
 		},
 		{
-			"url": "https://raw.fastgit.org/paopaoqing/dgzj/main/0723.json",
+			"url": "https://raw.iqiq.io/paopaoqing/dgzj/main/0723.json",
 			"name": "🔞刘小秋专用8"
 		},
 		{
@@ -68,15 +68,15 @@
 			"name": "🔞GGTV-18"
 		},
 		{
-			"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
+			"url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
 			"name": "🔞chengxueli-1"
 		},
 		{
-			"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json",
+			"url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/18.json",
 			"name": "🔞chengxueli-2"
 		},
 		{
-			"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
+			"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
 			"name": "🔞zhanghong1983"
 		},
 		{
@@ -125,11 +125,11 @@
 			"name": "🐝8f1c5[多条线路]"
 		},
 		{
-			"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
+			"url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/福利接口.txt",
 			"name": "🐝chengxue[多条线路]"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/apptest/main/avnetwork18x.txt",
+			"url": "https://raw.iqiq.io/dick318/apptest/main/avnetwork18x.txt",
 			"name": "線路2-AV"
 		}
 	]
