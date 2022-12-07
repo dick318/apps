@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://raw.iqiq.io/dick318/xianlu/main/duoduo/v.json",
+            "url": "https://raw.fastgit.org/dick318/xianlu/main/duoduo/v.json",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://raw.iqiq.io/dick318/xianlu/main/duoduo/m.json",
+            "url": "https://raw.fastgit.org/dick318/xianlu/main/duoduo/m.json",
             "name": "🏡应用多多"
         },
         {

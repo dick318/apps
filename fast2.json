@@ -1,8 +1,8 @@
 {
 "storeHouse": [
-{"sourceName":"💚混合极速仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/mix.txt"},
-{"sourceName":"💚自用极速仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/1.txt"},
-{"sourceName":"💚小秋专用仓","sourceUrl":"https://raw.iqiq.io/dick318/apps/main/fuli.txt"},
+{"sourceName":"💚混合极速仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/mix2.txt"},
+{"sourceName":"💚自用极速仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/1.txt"},
+{"sourceName":"💚小秋专用仓","sourceUrl":"https://raw.fastgit.org/dick318/apps/main/fuli2.txt"},
 
 //https://maoyingshi.cc/可视TV/云星日记/仓库.json
 {"sourceName":"☁云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
@@ -29,9 +29,9 @@
 {"sourceName":"💯【放学回家看电视】","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/DC1104.txt"},
 {"sourceName":"💯【放学回家看电视2】","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/dc2.txt"},
 {"sourceName":"dly内置版","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"},
-{"sourceName":"🏆小胡💜1仓🏆","sourceUrl":"https://raw.iqiq.io/xiaohurj/tvbox/main/JK.txt"},
-{"sourceName": "自定义仓(iqiq)", "sourceUrl": "https://raw.iqiq.io/yschaizhen/xian/main/dcjk"},
-{"sourceName":"☁️臥虎倉庫","sourceUrl":"https://raw.iqiq.io/SSM0415/apptest/main/line2-many.json"},
+{"sourceName":"🏆小胡💜1仓🏆","sourceUrl":"https://raw.fastgit.org/xiaohurj/tvbox/main/JK.txt"},
+{"sourceName": "自定义仓(iqiq)", "sourceUrl": "https://raw.fastgit.org/yschaizhen/xian/main/dcjk"},
+{"sourceName":"☁️臥虎倉庫","sourceUrl":"https://raw.fastgit.org/SSM0415/apptest/main/line2-many.json"},
 {"sourceName":"正经仓库","sourceUrl":"https://gitea.com/GOM/all/raw/branch/main/1.txt"},
 
 //https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
@@ -217,12 +217,12 @@
 {"sourceName":"优质","sourceUrl":"https://raw.fastgit.org/hd9211/Tvbox1/main/优质.json"},
 {"sourceName":"CR","sourceUrl":"https://raw.fastgit.org/hd9211/Tvbox1/main/cr.json"},
 
-{"sourceName":"🏆小胡💜2仓🏆","sourceUrl":"https://raw.iqiq.io/xiaohurj/tvbox/main/JK2.txt"},
-{"sourceName":"🏆小胡💜3仓🏆","sourceUrl":"https://raw.iqiq.io/xiaohurj/tvbox/main/JK3.txt"},
+{"sourceName":"🏆小胡💜2仓🏆","sourceUrl":"https://raw.fastgit.org/xiaohurj/tvbox/main/JK2.txt"},
+{"sourceName":"🏆小胡💜3仓🏆","sourceUrl":"https://raw.fastgit.org/xiaohurj/tvbox/main/JK3.txt"},
 {"sourceName":"🏆网络💜精选3🏆","sourceUrl":"https://download.kstore.space/download/2888/XB/%E5%A4%9A%E4%BB%93%E5%BA%93.txt"},
 {"sourceName":"🏆网络💜精选10🏆","sourceUrl":"https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt"},
-{"sourceName":"张弘在线仓库","sourceUrl":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"},
-{"sourceName":"张弘在线分类接口","sourceUrl":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/2"},
+{"sourceName":"张弘在线仓库","sourceUrl":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/1"},
+{"sourceName":"张弘在线分类接口","sourceUrl":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/2"},
 
 {"sourceName": "懒人TV仓", "sourceUrl": "https://notabug.org/yglr/lr/raw/master/api.json"},
 {"sourceName": "网络资源", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/wl"},
@@ -266,7 +266,7 @@
 //  {"sourceName": "欧哥4号备用仓库","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/b2d5007c-6bae-43b6-8dac-76473a2712b4.jpg"},
 //  {"sourceName": "欧哥5号备用仓库","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/d7693df1-4083-4617-9716-ff3768e35554.jpg"},
 //  {"sourceName": "欧哥本地仓库","sourceUrl": "http://w1.nxog.top/d/tvbox/%E6%AC%A7%E6%AD%8C/nxog/bd.json"}
-{"sourceName": "lyghgx","sourceUrl": "https://raw.iqiq.io/lyghgx/tv/main/duocang/zh.txt"},
+{"sourceName": "lyghgx","sourceUrl": "https://raw.fastgit.org/lyghgx/tv/main/duocang/zh.txt"},
 {"sourceName":"路灯仓库","sourceUrl":"https://gitea.com/GOM/all/raw/branch/main/3.txt"},
 {"sourceName":"传媒仓库","sourceUrl":"https://gitea.com/GOM/all/raw/branch/main/4.txt"},
 { "sourceName": "jiekou①号", "sourceUrl": "http://jiekou.gq/zb/1.html" },
