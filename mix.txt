@@ -1,7 +1,8 @@
 {
 	"urls": [
 		{
-			"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
+			//"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
+			"url": "https://yydsys.top/duo/v.json",
 			"name": "🏡应用多多家庭版"
 		},
 		{
@@ -30,7 +31,8 @@
 			"name": "❤欧歌集合线路"
 		},
 		{
-			"url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
+			//"url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
+			"url": "https://yydsys.top/duo/txt/live.txt",
 			"name": "🏡电视合集"
 		},
 		{
