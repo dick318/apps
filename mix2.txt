@@ -5,6 +5,11 @@
 			"url": "https://yydsys.top/duo/v.json",
 			"name": "🏡应用多多家庭版"
 		},
+        {
+            "url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
+            //"url": "https://yydsys.top/duo/v.json",
+            "name": "🏡应用多多家庭版2"
+        },
 		{
 			//"url": "https://pandora2277.github.io/tang.bmp",
 			"url": "https://HUTOOL.ML/tang",
