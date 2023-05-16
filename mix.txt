@@ -7,8 +7,7 @@
 			"name": "🏡应用多多家庭版"
 		},
         {
-            //"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
-            "url": "http://m35.grelighting.cn/a001.asp",
+            "url": "https://raw.fastgit.org/dick318/xianlu/main/xiaopingguo/1.json",
             "name": "❤小苹果"
         },
 		{
