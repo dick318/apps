@@ -90,10 +90,10 @@
 			"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
 			"name": "🧑‍🔧猫友"
 		},
-		{
-			"url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-			"name": "☁️云星家庭〔纯绿色家庭版〕"
-		},
+		//{
+		//	"url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+		//	"name": "☁️云星家庭〔纯绿色家庭版〕"
+		//},
 		{
 			"url": "https://raw.liucn.cc/box/m.json",
 			//"url": "https://liu673cn.github.io/box/m.json",
