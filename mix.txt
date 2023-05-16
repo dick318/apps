@@ -30,38 +30,16 @@
 		},
 		{
 			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2&123",
-			"name": "👇欧歌主线路👇",
+			"name": "💓欧歌主线路",
 			"time": "主线路"
 		},
-		{
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-			"name": "💓欧歌爬虫线路💓 ",
-			"time": "主线路"
-		},
-		{
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=&jar=js",
-			"name": "💛欧歌js线路💛",
-			"time": "主线路"
-		},
-		{
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=",
-			"name": "🖤欧歌XBiu+XYQ线路🖤",
-			"time": "主线路"
-		},
-		{
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=xBPQ&mz=xBPQ&xl=",
-			"name": "💙欧歌xBPQ线路💙✨",
-			"time": "主线路"
-		},
-		{
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&xl=&jar=py",
-			"name": "💚欧歌py线路💚",
-			"time": "主线路"
-		},
-
 		{
 			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
 			"name": "🚀肥猫线路"
+		},
+		{
+			"url": "https://pastebin.com/raw/5NHaxyGR",
+			"name": "🚀道长线路"
 		},
 		{
 			"url": "https://weixine.net/ysc.json",
@@ -70,10 +48,6 @@
 		{
 			"url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
 			"name": "🚀小胡"
-		},
-		{
-			"url": "https://pastebin.com/raw/5NHaxyGR",
-			"name": "🚀道长线路"
 		},
 		{
 			"url": "https://tvbox.cainisi.cf",
@@ -100,13 +74,10 @@
 			"url": "http://dxawi.github.io/0/0.json",
 			"name": "🚀dxawi0线路"
 		},
-
-
 		{
 			"url": "http://52bsj.vip:98/cl",
 			"name": "🐹月光宝盒"
 		},
-
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 			"name": "🐹南风线路"
@@ -127,7 +98,31 @@
 			"url": "http://101.34.67.237/config/3",
 			"name": "🏡小雅线路"
 		},
-
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+			"name": "💓欧歌爬虫线路💓 ",
+			"time": "主线路"
+		},
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=&jar=js",
+			"name": "💛欧歌js线路💛",
+			"time": "主线路"
+		},
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=",
+			"name": "🖤欧歌XBiu+XYQ线路🖤",
+			"time": "主线路"
+		},
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=xBPQ&mz=xBPQ&xl=",
+			"name": "💙欧歌xBPQ线路💙✨",
+			"time": "主线路"
+		},
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&xl=&jar=py",
+			"name": "💚欧歌py线路💚",
+			"time": "主线路"
+		},
 		{
 			"url": "https://la.kstore.space/download/2883/0110.txt",
 			"name": "🐹蚂蚁论坛线路"
