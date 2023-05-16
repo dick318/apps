@@ -1,80 +1,199 @@
 {
-	"urls": [
-		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/duoduo/v-new.json",
-			//"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
-			//"url": "https://yydsys.top/duo/v.json",
-			"name": "🏡应用多多家庭版"
+	"urls": [{
+			"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaopingguo/1.json",
+			"name": "❤小苹果"
 		},
-        {
-            "url": "https://raw.fastgit.org/dick318/xianlu/main/xiaopingguo/1.json",
-            "name": "❤小苹果"
-        },
+		{
+			"url": "http://s.nxw.so/vip",
+			//"url": "https://download.kstore.space/download/2863/01.txt",
+			//"url": "https://cnvip.x10.mx/tv/01.txt",
+			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+			//"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaosa/1121.txt",
+			"name": "🏡潇洒空间"
+		},
 		{
 			//"url": "https://pandora2277.github.io/tang.bmp",
 			"url": "https://HUTOOL.ML/tang",
 			"name": "💎唐三线路"
 		},
 		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaosa/1121.txt",
-			"name": "🏡潇洒空间(自己)"
+			"url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json",
+			"name": "🏡二哈社区1"
 		},
 		{
-			"url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
-			"name": "🏡二哈社区"
-		},
-		{
-			"url": "http://101.34.67.237/config/2",
-			"name": "🏡道长大人2"
+			"url": "https://raw.fastgit.org/2hacc/TVBox/main/xiaoya.json",
+			"name": "🏡二哈社区2"
 		},
 		{
 			"url": "https://raw.fastgit.org/gaotianliuyun/gao/master/0820.json",
 			"name": "💎[唐三+俊于+神器]"
 		},
 		{
-			"url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4",
-			"name": "❤欧歌集合线路"
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2&123",
+			"name": "👇欧歌主线路👇",
+			"time": "主线路"
 		},
 		{
-			//"url": "https://codeberg.org/leevi/duo/raw/branch/main/txt/live.txt",
-			"url": "https://yydsys.top/duo/txt/live.txt",
-			"name": "🏡电视合集"
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+			"name": "💓欧歌爬虫线路💓 ",
+			"time": "主线路"
 		},
 		{
-			"url": "http://miaotvs.cn/osc",
-			//"url": "http://111.67.196.181/mtv/270.txt",
-			"name": "🧑‍🔧太阳仓库"
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=&jar=js",
+			"name": "💛欧歌js线路💛",
+			"time": "主线路"
 		},
 		{
-			"url": "http://111.67.196.181/mtv/meow.txt",
-			"name": "🌤太阳仓库2"
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=",
+			"name": "🖤欧歌XBiu+XYQ线路🖤",
+			"time": "主线路"
 		},
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=xBPQ&mz=xBPQ&xl=",
+			"name": "💙欧歌xBPQ线路💙✨",
+			"time": "主线路"
+		},
+		{
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&xl=&jar=py",
+			"name": "💚欧歌py线路💚",
+			"time": "主线路"
+		},
+
+		{
+			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+			"name": "🚀肥猫线路"
+		},
+		{
+			"url": "https://weixine.net/ysc.json",
+			"name": "🚀运输车"
+		},
+		{
+			"url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+			"name": "🚀小胡"
+		},
+		{
+			"url": "https://pastebin.com/raw/5NHaxyGR",
+			"name": "🚀道长线路"
+		},
+		{
+			"url": "https://tvbox.cainisi.cf",
+			"name": "🚀菜妮丝线路"
+		},
+		{
+			//"url": "http://xn--sss604efuw.ga/x/o.json",
+			"url": "http://饭太硬.ga/tv",
+			"name": "🚀‍饭太硬"
+		},
+		{
+			"url": "http://pandown.pro/tvbox/tvbox.json",
+			"name": "🚀巧记线路"
+		},
+		{
+			"url": "http://home.jundie.top:81/top98.json",
+			"name": "🚀俊佬线路"
+		},
+		{
+			"url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+			"name": "🚀霜辉月明"
+		},
+		{
+			"url": "http://dxawi.github.io/0/0.json",
+			"name": "🚀dxawi0线路"
+		},
+
+
+		{
+			"url": "http://52bsj.vip:98/cl",
+			"name": "🐹月光宝盒"
+		},
+
+		{
+			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+			"name": "🐹南风线路"
+		},
+		{
+			"url": "http://52bsj.vip:98/wuai",
+			"name": "🐹吾爱线路"
+		},
+		{
+			"url": "http://101.34.67.237/config/1",
+			"name": "🏡道长大人1"
+		},
+		{
+			"url": "http://101.34.67.237/config/2",
+			"name": "🏡道长大人2"
+		},
+		{
+			"url": "http://101.34.67.237/config/3",
+			"name": "🏡小雅线路"
+		},
+
+		{
+			"url": "https://la.kstore.space/download/2883/0110.txt",
+			"name": "🐹蚂蚁论坛线路"
+		},
+
+		{
+			"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+			"name": "🐹分享者线路"
+		},
+		{
+			"url": "https://ju.binghe.ga/4.txt",
+			"name": "🐹冰河线路"
+		},
+
+		{
+			"url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+			"name": "💎不良帅线路"
+		},
+		{
+			"url": "http://www.dmtv.ml/mao/single.json",
+			"name": "💎乱世线路"
+		},
+		{
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+			"name": "💎一影视线路"
+		},
+		{
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+			"name": "💎佰欣园线路"
+		},
+
+		{
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+			"name": "💎一木线路"
+		},
+		{
+			"url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+			"name": "💎kvymin线路"
+		},
+		{
+			"url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+			"name": "💎agit/abc线路"
+		},
+		{
+			"url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+			"name": "💎zzz1线路"
+		},
+
+
 		{
 			"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-			"name": "🧑‍🔧猫友️"
+			"name": "🧑‍🔧猫友"
 		},
 		{
 			"url": "https://raw.liucn.cc/box/m.json",
 			//"url": "https://liu673cn.github.io/box/m.json",
 			//"url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
-			"name": "✍️老刘呗"
+			"name": "✍老刘呗"
 		},
-		{
-			"url": "https://raw.fastgit.org/dick318/xianlu/main/yueguang/1.json",
-			"name": "🚀月光宝盒pro(自己)"
-		},
+
 		{
 			"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
 			"name": "🤖agit.ai/MHQTV"
 		},
 		{
-			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-			//"url": "https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt",
-			"name": "🤖南风线路"
-		},
-		{
 			"url": "http://刚刚.live/猫",
-			//"url": "我不是.肥猫.love:63",
 			"name": "🧑‍🔧刚刚"
 		},
 		{
@@ -82,10 +201,7 @@
 			//"url": "http://刚刚.live/gg.json",
 			"name": "🧑‍🔧刚刚4K"
 		},
-		{
-			"url": "http://xn--sss604efuw.ga/x/o.json",
-			"name": "🤖‍饭太硬"
-		},
+
 		{
 			"url": "https://raw.fastgit.org/dick318/apptest/main/TVbox2.txt",
 			"name": "自用線路1-TV"
@@ -127,10 +243,6 @@
 			"name": "✍github/PinkBird"
 		},
 		{
-			"url": "http://pandown.pro/tvbox/tvbox.json",
-			"name": "🚀巧记线路"
-		},
-		{
 			"url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
 			"name": "🚀公益线路"
 		},
@@ -141,10 +253,6 @@
 		{
 			"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
 			"name": "🚀月光宝盒"
-		},
-		{
-			"url": "http://home.jundie.top:81/top98.json",
-			"name": "🚀俊佬线路"
 		},
 		{
 			"url": "http://www.dmtv.ml/mao/single.json",
@@ -282,22 +390,9 @@
 			"url": "https://dlj2.cn/自用",
 			"name": "⛽️自用[多条线路]"
 		},
-
-		{
-			"url": "http://101.34.67.237/config/1",
-			"name": "🏡道长大人1"
-		},
-		{
-			"url": "http://101.34.67.237/config/3",
-			"name": "🏡道长大人3"
-		},
 		{
 			"url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
 			"name": "🐱道长在线3[DRPY接口]"
-		},
-		{
-			"url": "https://raw.fastgit.org/lm317379829/PyramidStore/pyramid/py.json",
-			"name": "🐱星河软件园[DRPY接口]"
 		},
 		{
 			"url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
@@ -378,16 +473,23 @@
 			"name": "🏡应用多多(自己)"
 		},
 		{
+			"url": "https://raw.fastgit.org/dick318/xianlu/main/duoduo/v-new.json",
+			//"url": "https://codeberg.org/leevi/duo/raw/branch/main/v.json",
+			//"url": "https://yydsys.top/duo/v.json",
+			"name": "🏡应用多多家庭版(自己)"
+		},
+		{
+			"url": "https://raw.fastgit.org/dick318/xianlu/main/yueguang/1.json",
+			"name": "🚀月光宝盒pro(自己)"
+		},
+		{
 			//"url": "https://HUTOOL.ML/tang",
 			"url": "https://raw.fastgit.org/dick318/xianlu/main/tangsan/1.json",
 			"name": "💎唐三线路(自己)"
 		},
 		{
-			//"url": "http://s.nxw.so/vip",
-			"url": "https://cnvip.x10.mx/tv/01.txt",
-			//"url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
-			//"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaosa/1121.txt",
-			"name": "🏡潇洒空间"
+			"url": "https://raw.fastgit.org/dick318/xianlu/main/xiaosa/1121.txt",
+			"name": "🏡潇洒空间(自己)"
 		},
 		{
 			"url": "https://raw.fastgit.org/dick318/xianlu/main/2ha/1.json",

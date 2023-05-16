@@ -51,8 +51,8 @@
 { "sourceName": "安卓哥JSPY", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/JSPY" },
 
 //http://tv.nxog.top/ 欧歌多仓提取
-{"sourceName":"欧歌主仓库","sourceUrl":"http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"},
-{"sourceName":"欧歌1号备用仓库","sourceUrl":"http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=欧歌"},
+{"sourceName":"欧歌主仓库","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName":"欧歌1号备用仓库","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&xl=1&b=欧歌"},
 //{"sourceName":"欧歌2号备用仓库","sourceUrl":"http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=欧歌"},
 //{"sourceName":"欧歌3号备用仓库","sourceUrl":"http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=欧歌"},
 //{"sourceName":"欧歌4号备用仓库","sourceUrl":"http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=欧歌"},
