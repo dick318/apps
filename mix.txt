@@ -1,15 +1,9 @@
 {
-	"urls": [
-		{
+	"urls": [{
 			//"url": "https://pandora2277.github.io/tang.bmp",
 			//"url": "https://HUTOOL.ML/tang",
 			"url": "http://tvbo.run.goorm.site/tangs.json",
 			"name": "💎唐三线路"
-		},
-		{
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2&123",
-			"name": "💓欧歌主线路",
-			"time": "主线路"
 		},
 		{
 			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
@@ -20,13 +14,27 @@
 			"url": "http://饭太硬.top/tv",
 			"name": "🚀‍饭太硬"
 		},
+        {
+            "name": "mengzehe",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/mengzehe/tvbox/main/自用源"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2&123",
+            "name": "💓欧歌主线路",
+            "time": "主线路"
+        },
+        {
+            "name": "码上放生",
+            // "url":"https://www.bestpvp.site/关注码上放生/时光机"
+            "url": "https://ghproxy.com/raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json"
+        },
+        {
+            "name": "小暴脾气",
+            "url": "http://xhww.fun:63/小米/DEMO.json"
+        },
 		{
 			"name": "云星家庭",
 			"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
-		},
-		{
-			"name": "多多家庭",
-			"url": "https://yydsys.top/duo"
 		},
 		{
 			"name": "刘备线路",
